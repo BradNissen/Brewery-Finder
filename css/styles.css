@@ -1,0 +1,53 @@
+/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#map {
+    margin: 20px auto 20px auto;
+    border: solid 2px black;
+    height: 100%;
+    width: 900px;
+
+}
+/* Optional: Makes the sample page fill the window. */
+
+html, body {
+    height: 600px;
+    background-image: url("/finalProject/images/beerlogo.jpg");
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+div#wrapper {
+    width: auto;
+    margin: 100px auto 20px auto;
+    text-align: center;
+}
+form label,select,input{
+    font-size: 18px;
+}
+
+table{
+
+    margin: 60px auto 20px auto;
+    border: solid 2px black;
+    background-color: rgba(125, 153, 144, 0.5);
+}
+
+td {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
+
+tr {
+    border-bottom: solid 2px red;
+}
