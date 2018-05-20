@@ -1,7 +1,7 @@
 <?php
-$DB_USER =  "root";
-$DB_PASSWORD = "root";
-$DB_DATABASE_NAME = "Beer";
-$DB_HOST =  "localhost";
-$DB_PORT = 8889;
+$DB_USER =  "";
+$DB_PASSWORD = "";
+$DB_DATABASE_NAME = "";
+$DB_HOST =  "local";
+$DB_PORT = "";
 ?>
